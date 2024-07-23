@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\dizielemansayisiarttirma\\dizielemansayisiarttirma\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|solutionrelative:dizielemansayisiarttirma\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\dizielemansayisiarttirma\\dizielemansayisiarttirma\\konferans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|solutionrelative:dizielemansayisiarttirma\\konferans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\dizielemansayisiarttirma\\dizielemansayisiarttirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04664A6B-1939-43A4-AC77-31B074CB1DF7}|DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma.csproj|solutionrelative:dizielemansayisiarttirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Insan.cs",
+              "RelativeDocumentMoniker": "DiziElemanSayisiArttirma\\Insan.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Insan.cs",
+              "RelativeToolTip": "DiziElemanSayisiArttirma\\Insan.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:15:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Konferans.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Konferans.cs",
+              "RelativeDocumentMoniker": "DiziElemanSayisiArttirma\\Konferans.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Konferans.cs",
+              "RelativeToolTip": "DiziElemanSayisiArttirma\\Konferans.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:11:02.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Program.cs",
+              "RelativeDocumentMoniker": "DiziElemanSayisiArttirma\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\DiziElemanSayisiArttirma\\DiziElemanSayisiArttirma\\Program.cs",
+              "RelativeToolTip": "DiziElemanSayisiArttirma\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwGIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:50:53.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
